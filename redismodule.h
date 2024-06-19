@@ -1,6 +1,7 @@
 #ifndef REDISMODULE_H
 #define REDISMODULE_H
 
+#include <arpa/inet.h>
 #include <sys/types.h>
 #include <stdint.h>
 #include <stdio.h>
